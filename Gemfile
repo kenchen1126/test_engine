@@ -70,3 +70,6 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+# cat engine
+gem 'cat_engine', path: '../cat_engine'
