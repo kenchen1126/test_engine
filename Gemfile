@@ -72,4 +72,4 @@ group :test do
 end
 
 # cat engine
-gem 'cat_engine', path: '../cat_engine'
+gem 'cat_engine', git: 'git@github.com:kenaser12345/cat_engine.git', branch: :main
